@@ -3,6 +3,7 @@
 ### Hi there 👋, my name is Zahy
 #### I am an AI and Robotics enthusiast
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZahyElgendy)](https://github.com/anuraghazra/github-readme-stats)
 
 Skills: AI / ML / CV / NLP / Robotics
 
