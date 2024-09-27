@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Zahy
 #### I am an AI and Robotics enthusiast
-![I am an AI and Robotics enthusiast](https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/2015/09/26/_pek04_52787185.jpg?itok=exU2JzWV)
+![I am an AI and Robotics enthusiast](https://img.freepik.com/premium-photo/cute-mini-smart-robot-toy-artificial-intelligence-wave-picture-ai-generated-art_210643-2464.jpg)
 
 A self-driven and ambitious Mechatronics & Robotics undergraduate pursuing a dual degree bachelor with a passion for robotics, sensors, and AI applications in computer science, and intelligent systems. 
 
