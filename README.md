@@ -4,7 +4,7 @@
 
 A self-driven and ambitious Mechatronics & Robotics undergraduate pursuing a dual degree bachelor with a passion for robotics, sensors, and AI applications in computer science, and intelligent systems. 
 
-Skills: Python / ML / Computer Vision / NLP / HTML / CSS
+Skills: Python / ML / Computer Vision / NLP 
 
 - 🌱 I’m currently learning Machine Learning 
 - 📫 How to reach me: Zahygendy@gmail.com 
